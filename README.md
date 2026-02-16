@@ -1,1 +1,1 @@
-print("This project is for demo purpose")
+This project is for demo purpose
