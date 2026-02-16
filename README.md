@@ -1,2 +1,1 @@
-# new-jenkin-project
-Demo purpose 
+print("This project is for demo purpose")
